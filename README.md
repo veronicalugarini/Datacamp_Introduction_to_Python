@@ -1,3 +1,3 @@
-# Datacamp Course - Intriduction to Python
+# Datacamp Course - Introduction to Python
 
-The script/exercises was made using Google Colaboratory
+The script/exercises was made using Google Colaboratory. 
